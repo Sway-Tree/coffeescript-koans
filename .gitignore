@@ -1,4 +1,8 @@
 *~
+<<<<<<< HEAD
+=======
+koans/*~
+>>>>>>> c7e6499844cddc4093057ca6b8af8fad76ff30c6
 koans/*.js
 lib/koans/*.js
 completed-koans/*
